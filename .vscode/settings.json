@@ -1,0 +1,33 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#5592d5",
+    "activityBar.activeBorder": "#f2ccde",
+    "activityBar.background": "#5592d5",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#f2ccde",
+    "activityBarBadge.foreground": "#15202b",
+    "sash.hoverBorder": "#5592d5",
+    "statusBar.background": "#3178c6",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#5592d5",
+    "statusBarItem.remoteBackground": "#3178c6",
+    "statusBarItem.remoteForeground": "#e7e7e7",
+    "titleBar.activeBackground": "#ffffff",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#3178c699",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  },
+  "workbench.editor.tabs.showTabs": true,
+  "workbench.editor.showTabs": true,
+  "workbench.editor.showIcons": true,
+  "workbench.editor.highlightModifiedTabs": true,
+  "workbench.editor.tabCloseButton": "off",
+  "workbench.editor.tabSizing": "fit",
+  "workbench.editor.showUnused": true,
+  "workbench.editor.enablePreview": true,
+  "workbench.editor.enablePreviewFromQuickOpen": true,
+  "explorer.compactFolders": true,
+  "javasript.suggest.autoImport": true,
+  "typescript.suggest.autoImport": true
+}
